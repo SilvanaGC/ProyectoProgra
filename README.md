@@ -1,11 +1,11 @@
 # ProyectoProgra
 proyecto de programacion 3 con JEE
 
-#Programadores
+# Programadores
 Ian Rodríguez Carrillo / Silvana Gutierrez Chaparro
 
-#Agradecimientos
+# Agradecimientos
 Diego Figueroa Llanes / Robinson Aguilar / Diego Corredor
 
-#Para 
+# Para 
 Jairo Riaño
